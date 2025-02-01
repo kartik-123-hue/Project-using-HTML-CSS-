@@ -8,28 +8,40 @@
     text-align: left;
 }
 #heading{
+
     height: 100px;
 }
 
 #title{
+    padding-top: 5%;
     font-size: 200%;
 }
 #heading{
-    background-color: cornsilk;
+    
 }
 
 #img-div{
-    max-width: 1000%;
-    max-height: 100%;
+    margin-top: 2%;
     background-color:bisque;
 }
 #image{
-    /* max-width: 70%;
+    padding-top: 5%;
     height: auto;
-    display: block; */
-    max-height: 50%;
-    max-width: 50%;
-    /* display: block;
-    width: 50%; */
-
+    display: block;
+    max-width: 100%;
 }
+
+#img-caption{
+    padding-bottom: 5%;
+}
+#tribute-info{
+    
+}
+
+#main{
+    margin-top: auto;
+    background-color: cornsilk;
+    margin-bottom: auto;
+    margin-right: auto;
+}
+
